@@ -4,7 +4,7 @@
  * @wordpress-plugin
  * Plugin Name:       Simple Googlebot Visit
  * Description:       Plugin to view the last visit of googlebot to your pages and entries.
- * Version:           1.2.5
+ * Version:           1.2.6
  * Author:            Codents
  * Author URI:        https://codents.net
  * License:           GPL-2.0+
@@ -19,7 +19,7 @@ if (!defined('WPINC')) {
 
 define('SGBV_NAME', 'Simple Googlebot Visit');
 define('SGBV_SLUG', 'simple-googlebot-visit');
-define('SGBV_VERSION', '1.2.5');
+define('SGBV_VERSION', '1.2.6');
 define('SGBV_DB_TERM', 'sgbv');
 define('SGBV_GOOGLEBOT_AGENTS', array('googlebot'));
 

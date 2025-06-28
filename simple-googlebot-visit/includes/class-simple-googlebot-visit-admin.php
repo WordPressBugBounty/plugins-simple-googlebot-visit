@@ -48,6 +48,9 @@
 			$template->add(array(
 				'PLUGIN_NAME' => $this->plugin_name,
 				'PLUGIN_LOGO' => plugin_dir_url(__FILE__) . '../assets/images/logo.png',
+				'TUTORIAL_LINK' => 'https://actualidadigital.net/informatica/simple-googlebot-visit-el-plugin-de-wordpress-para-espiar-al-espia',
+				'TUTORIAL_IMAGE' => plugin_dir_url(__FILE__) . '../assets/images/how-does-simple-googlebot-visit-work.gif',
+				'TUTORIAL_TEXT' => __('How does Simple Googlebot Visit work?', $this->plugin_slug),
 				'TITLE_SETTINGS' => __('Settings', $this->plugin_slug),
 				'TITLE_LAST_VISITS' => __('Last visits', $this->plugin_slug),
 				'TITLE_WHY' => __('Why Simple Googlebot Visit?', $this->plugin_slug),

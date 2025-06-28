@@ -3,7 +3,7 @@ Contributors: codents, alejandrodiegoo
 Donate link: https://codents.net
 Tags: seo, googlebot, google, indexation, pages, entries, woocommerce, products
 Requires at least: 3.0.1
-Tested up to: 6.0.1
+Tested up to: 6.8.1
 Stable tag: trunk
 Requires PHP: 5.5
 License: GPLv2 or later
@@ -41,6 +41,9 @@ Simple Googlebot Visit does not consume any third party services. The data is co
 3. Simple Googlebot Visit column.
 
 == Changelog ==
+
+= 1.2.6 =
+* Added new WordPress compatibility and plugin screenshots.
 
 = 1.2.5 =
 * Applied wordpress reviewers suggestions to avoid vulnerabilities.

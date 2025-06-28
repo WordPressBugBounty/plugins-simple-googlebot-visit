@@ -21,15 +21,37 @@
   }
 }
 
-#simple-googlebot-visit-admin figure {
+#simple-googlebot-visit-admin > figure {
   display: block;
   margin: 0 0 1rem 0;
 }
 
-#simple-googlebot-visit-admin figure img {
+#simple-googlebot-visit-admin > figure > img {
   display: block;
   width: 100%;
   max-width: 350px;
+}
+
+#simple-googlebot-visit-admin .admin-tutorial {
+  background: #7266eb;
+  margin-bottom: 1rem;
+  border-radius: .25rem;
+  overflow: hidden;
+}
+
+#simple-googlebot-visit-admin .admin-tutorial > a {
+  display: block;
+}
+
+#simple-googlebot-visit-admin .admin-tutorial > a > figure  {
+  margin: 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+#simple-googlebot-visit-admin .admin-tutorial > a > figure > img  {
+  display: block;
+  max-width: 100%;
 }
 
 #simple-googlebot-visit-admin .admin-content {

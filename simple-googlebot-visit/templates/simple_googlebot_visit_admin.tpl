@@ -1,5 +1,10 @@
 <div id="simple-googlebot-visit-admin">
 	<figure><img src="{{PLUGIN_LOGO}}" alt="{{PLUGIN_NAME}}" /></figure>
+	<div class="admin-tutorial">
+		<a href="{{TUTORIAL_LINK}}" target="_blank">
+			<figure><img src="{{TUTORIAL_IMAGE}}" alt="{{TUTORIAL_TEXT}}" /></figure>
+		</a>
+	</div>
 	<div class="admin-content">
 		<div class="admin-block" data-type="settings">
 			<a href="#" class="dashicons-before">{{TITLE_SETTINGS}}</a>

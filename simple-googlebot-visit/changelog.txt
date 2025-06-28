@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 1.2.6 =
+* Added new WordPress compatibility and plugin screenshots.
+
 = 1.2.5 =
 * Applied wordpress reviewers suggestions to avoid vulnerabilities.
 
